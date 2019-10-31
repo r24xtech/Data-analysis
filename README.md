@@ -3,6 +3,7 @@ Data analysis with Python
 
 GDP per capita of the US from 70s until now
 
+![graph](Figure_1.png)
 
 
 ```
