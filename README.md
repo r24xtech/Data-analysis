@@ -2,8 +2,10 @@
 Data analysis with Python
 
 `ap.py`
+
 ![graph](Figure_4.png)
 
+<hr>
 
 `c.py`
 
