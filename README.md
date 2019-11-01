@@ -8,6 +8,7 @@ GDP per capita of the US from 1970 until now.
 
 
 `d.py`
+
 ![graph](Figure_2.png)
 
 
